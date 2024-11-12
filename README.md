@@ -1,5 +1,7 @@
 # KreeKarvat Technologies Website
 
+![image](https://github.com/user-attachments/assets/2509a6be-280e-42b0-9d66-d3b05f349274)
+
 A modern, responsive website for KreeKarvat Technologies built with HTML, CSS, and JavaScript. This website showcases our services, portfolio, and expertise in web development and digital solutions.
 
 ## 🚀 Features
