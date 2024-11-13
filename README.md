@@ -83,7 +83,6 @@ The website is structured into several main sections:
 - jQuery for enhanced interactivity
 - Isotope for portfolio layout
 
-
 ---
 
 Made with ❤️ by Team KreeKarvat Technologies
