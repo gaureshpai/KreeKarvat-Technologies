@@ -69,7 +69,7 @@ The website is structured into several main sections:
 
 ## 📞 Contact
 
-- Website: [https://www.kreekarvatr.com](https://www.kreekarvatr.com)
+- Website: [https://www.kreekarvatr.com](https://www.kreekarvat.in)
 - Email: [techkreekarvat@gmail.com](mailto:techkreekarvat@gmail.com)
 - Phone: +91 8317398805
 - Address: 8-99/C Nayak Building, Thyagaraj Road, Bantwal, Karnataka 574211
